@@ -365,6 +365,22 @@ window.I18N.en = {
         "Recovery planning",
         "Decision reports"
       ]
+    },
+    {
+      "title": "Field Data Collection System",
+      "sub": "From the field to the dashboard: an integrated operating model for accurate, instant, paperless data",
+      "year": "Product",
+      "image": "field-app-2026.jpg",
+      "problem": "Field teams and municipalities struggle with repeated manual entry, information lost in transit from the field to the office, and slow paper-based workflows that delay transactions and decisions.",
+      "solution": "An integrated field system that captures location, photos, and status from a phone or tablet, using choice lists and auto-logged coordinates to cut errors, synced instantly to a central dashboard and interactive map.",
+      "role": "Designed the data-flow architecture from field capture to decision-making, customizable digital forms, live dashboard and automated-report links, and a flexible export structure (GeoPackage, PDF, Excel).",
+      "value": "Moves teams from slow, error-prone entry to accurate real-time data, flexible enough for municipal facility management, infrastructure surveys, damage documentation, and field censuses.",
+      "tags": [
+        "Smart field forms",
+        "Real-time sync",
+        "GPS & photos",
+        "Command dashboards"
+      ]
     }
   ],
   "proofMetrics": [
@@ -560,6 +576,8 @@ window.I18N.en = {
     "btnTelegram": "Send via Telegram",
     "btnEmail": "Send Email Inquiry",
     "btnDownload": "Download Portfolio",
+    "qrCaption": "Scan to open or share this portfolio",
+    "qrAlt": "QR code linking to this portfolio at https://engmohadi.github.io",
     "form": {
       "title": "Project Inquiry Form",
       "name": "Full Name",
@@ -676,15 +694,17 @@ window.I18N.en = {
     "openSlide": "Open slide at full size",
     "slideCount": "Slide {current} of {total}",
     "deckSlides": [
-      "Smart Municipality: One connected ecosystem for a more efficient city",
+      "The Smart Municipality: One System for a More Efficient City",
       "Integrated Digital Transformation",
-      "From Traditional Administration to Smart Operations",
-      "The Digital Transaction Journey",
-      "Smart Spatial Management",
-      "Decision-Maker Enablement",
-      "Flexible, Secure and Scalable Technology",
-      "Comprehensive Governance and Auditability",
-      "One Platform. A Smarter Municipality."
+      "A Unified Municipal Ecosystem",
+      "The End-to-End Digital Lifecycle",
+      "Advanced GIS & Spatial Data Management",
+      "Executive Decision Support",
+      "Seamless & Accessible User Experience",
+      "Future-Proof & Flexible Architecture",
+      "Uncompromising Transparency & Tracking",
+      "The Transformation Matrix",
+      "Transitioning to a Faster, More Organized Future"
     ],
     "outcomes": [
       {

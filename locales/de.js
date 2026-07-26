@@ -560,6 +560,8 @@ window.I18N.de = {
     "btnTelegram": "Senden über Telegram",
     "btnEmail": "E-Mail-Anfrage senden",
     "btnDownload": "Portfolio herunterladen",
+    "qrCaption": "Scannen, um dieses Portfolio zu öffnen oder zu teilen",
+    "qrAlt": "QR-Code, der zu diesem Portfolio unter https://engmohadi.github.io führt",
     "form": {
       "title": "Projektanfrageformular",
       "name": "Vollständiger Name",
@@ -676,15 +678,17 @@ window.I18N.de = {
     "openSlide": "Folie in voller Größe öffnen",
     "slideCount": "Folie {current} von {total}",
     "deckSlides": [
-      "Smart Municipality: One connected ecosystem for a more efficient city",
+      "The Smart Municipality: One System for a More Efficient City",
       "Integrated Digital Transformation",
-      "From Traditional Administration to Smart Operations",
-      "The Digital Transaction Journey",
-      "Smart Spatial Management",
-      "Decision-Maker Enablement",
-      "Flexible, Secure and Scalable Technology",
-      "Comprehensive Governance and Auditability",
-      "One Platform. A Smarter Municipality."
+      "A Unified Municipal Ecosystem",
+      "The End-to-End Digital Lifecycle",
+      "Advanced GIS & Spatial Data Management",
+      "Executive Decision Support",
+      "Seamless & Accessible User Experience",
+      "Future-Proof & Flexible Architecture",
+      "Uncompromising Transparency & Tracking",
+      "The Transformation Matrix",
+      "Transitioning to a Faster, More Organized Future"
     ],
     "outcomes": [
       {
